@@ -1,0 +1,3 @@
+<?php
+// Plik konfiguracyjny strony
+?>
